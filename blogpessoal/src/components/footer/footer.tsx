@@ -12,9 +12,15 @@ function Footer (){
                     </p>
                     <p className="text-lg ">Acesse as nossas redes sociais</p>
                     <div className="flex gap-2">
+                        <a href="https://www.linkedin.com/in/felipebmurad">
                         <LinkedinLogoIcon size={48} weight="bold" />
+                        </a>
+                        <a href="https://www.facebook/felipebmurad">
                         <FacebookLogoIcon size={48} weight="bold" />
+                        </a>
+                        <a href="https://www.instagram.com/felipemurad21">
                         <InstagramLogoIcon size={48} weight="bold" />
+                        </a>
                     </div>
                 </div>
             </div>
